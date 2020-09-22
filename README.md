@@ -6,12 +6,18 @@
   </a>
 </p>
 
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/803c409e-601a-455b-afe6-3a747516de8e/deploy-status)](https://app.netlify.com/sites/jovial-swanson-163dde/deploys)
+  
+### ▶️ [Demo](https://cranky-einstein-aff725.netlify.app)
+
 ## Install
 
-Clone this repo
+Clone this repo.
 
 ## Usage
 
 Navigate to cloned folder and run
 ```sh
 npx lite-server
+```
+Piece of cake! 🍰
