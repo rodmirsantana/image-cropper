@@ -8,7 +8,7 @@
 
   [![Netlify Status](https://api.netlify.com/api/v1/badges/803c409e-601a-455b-afe6-3a747516de8e/deploy-status)](https://app.netlify.com/sites/jovial-swanson-163dde/deploys)
   
-### ▶️ [Demo](https://cranky-einstein-aff725.netlify.app)
+### ▶️ [Demo](https://jovial-swanson-163dde.netlify.app)
 
 ## Install
 
